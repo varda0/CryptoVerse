@@ -1,4 +1,3 @@
-#Preview Cryptoverse here: https://cryptocoinsreact.netlify.app/
 
 # Getting Started with Create React App
 
